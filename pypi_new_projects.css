@@ -1,0 +1,61 @@
+body {
+    width: 1200px;
+}
+.container {
+    background-color: lightgrey;
+    display: flex;
+}
+
+.left-column {
+    width: 50%;
+}
+
+.right-column {
+    width: 50%;
+}
+
+.box {
+    border: 1px solid #d3d3d3;
+    width: 80%;
+    height: 75px;
+    margin: 10px;
+    background-color: white;
+    background-image: url("Images/Ze-Cube.png");
+    background-repeat: no-repeat;
+    background-position: 20px 20px;
+}
+
+.content {
+    padding-left: 70px;
+}
+
+h3 {
+    color: #464646;
+}
+
+body {
+    width: 1200px;
+}
+.row {
+    width: 2;
+}
+
+.col {
+    border: 1px solid black;
+    text-align: top;
+    text-align: center;
+    width: 310;
+    height: 190;
+}
+
+p1 {
+    color: #0083ce;
+}
+
+i {
+    color: #4b556a;
+}
+
+p {
+    color: #514646;
+}
